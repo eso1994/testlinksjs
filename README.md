@@ -8,4 +8,6 @@ manutenção. Essa lib é pra resolver justamente isso, ela testa esses links e 
 statusCode deles enquanto a gente toma um cafézinho quentinho.
 
 -> Instale em seu sistema com o comando npm install -g testelinksjs
+
+
 -> Teste se está tudo Ok executando a lib com o comando "testelinksjs caminho/do/arquivo.md." ou "testelinksjs caminho/do/arquivo.md. validate"
