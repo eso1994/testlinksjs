@@ -9,8 +9,14 @@
   },
   "keywords": [
     "testlinks",
-    "markdown"
+    "markdown",
+    "URL"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eso1994/testlinksjs"
+  },
+  "homepage": "https://github.com/eso1994/testlinksjs/blob/main/README.md",
   "author": "eso1994",
   "license": "ISC",
   "dependencies": {
