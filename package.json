@@ -12,6 +12,9 @@
     "markdown",
     "URL"
   ],
+  "bugs": {
+    "url": "https://github.com/eso1994/testlinksjs/issues"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/eso1994/testlinksjs"
