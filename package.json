@@ -1,0 +1,21 @@
+{
+  "name": "testlinksjs",
+  "version": "1.0.0",
+  "description": "takes links in markdown format and checks their operation ",
+  "main": "index.js",
+  "scripts": {
+    "cli": "node cli.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "testlinks",
+    "markdown"
+  ],
+  "author": "eso1994",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "express": "^4.17.3",
+    "node-fetch": "^3.2.3"
+  }
+}
